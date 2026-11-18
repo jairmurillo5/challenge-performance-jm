@@ -1,0 +1,24 @@
+{
+  "target_tps": 100,
+  "configured_duration": "1m",
+  "generated_at": "2026-11-18T04:58:33.102Z",
+  "metrics": {
+    "product_requests": 6010,
+    "iterations": 6010,
+    "products_created": 4045,
+    "product_create_failures": 1965,
+    "http_req_duration": {
+      "p(90)": 248.45250000000001,
+      "p(95)": 283.22747,
+      "p(99)": 512.3840549999994,
+      "avg": 227.419014359401,
+      "min": 200.1738,
+      "med": 214.12165,
+      "max": 1048.501
+    },
+    "http_req_failed_rate": 0.326955074875208,
+    "checks_rate": 0.673044925124792,
+    "dropped_iterations": 0,
+    "vus_max": 63
+  }
+}

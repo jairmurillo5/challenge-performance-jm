@@ -1,0 +1,7 @@
+Monnet Payments | POST /products/add | target=50 TPS
+Duration configured: 1m
+Product requests: 3001
+Created checks passed: 2993
+HTTP failure rate: 0.0026657780739753416
+p95 latency (ms): 410.1443
+Dropped iterations: 0
